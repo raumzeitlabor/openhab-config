@@ -1,0 +1,13 @@
+sitemap default label="Raum"
+{
+	Frame {
+		Switch item=pca301_snackbar
+		Switch item=pca301_alarm
+		Switch item=pca301_rundumleuchte
+		Switch item=pca301_twinkle
+		Switch item=pca301_infoscreen  
+		Switch item=pca301_videogames
+		Switch item=pca301_music
+		Switch item=pca301_flyfry
+	}
+}

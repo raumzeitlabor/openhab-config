@@ -1,0 +1,10 @@
+Group gMain
+
+Switch pca301_snackbar "Snackbar" (gMain) {pca301="address=1025786,property=state"}
+Switch pca301_alarm "ALAAAAARM" (gMain) {pca301="address=1025791,property=state"}
+Switch pca301_rundumleuchte "Rundumleuchte" (gMain) {pca301="address=1025795,property=state"}
+Switch pca301_twinkle  "Twinkle, Twinkle"  (gMain) {pca301="address=343290,property=state"}
+Switch pca301_infoscreen "Infoscreen"  (gMain) {pca301="address=963654,property=state"}
+Switch pca301_videogames "Videospiele"  (gMain) {pca301="address=963696,property=state"}
+Switch pca301_music "Musik"  (gMain) {pca301="address=349197,property=state"}
+Switch pca301_flyfry "Fliegenbratgerät"  (gMain) {pca301="address=349734,property=state"}
